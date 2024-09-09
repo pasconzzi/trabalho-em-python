@@ -7,3 +7,5 @@ elif idade >= 30 and idade <= 100:
     print('Você é adulto')
 else:
     print('Valor não encontrado')
+
+input ("Aperte enter para continuar...")
